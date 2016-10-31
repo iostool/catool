@@ -19,3 +19,6 @@ Cartfile 语法和Carthage大致一样。现在不支持private。简单粗暴.�
 >- **cartool archive** archive all package
 >- **cartool archive -t** archive current package 
 
+## cmd sample  
+>- **cartool update && cartool build && cartool archive**
+>- **cartool update -p && cartool build -p && cartool archive**

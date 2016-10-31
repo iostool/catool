@@ -8,11 +8,11 @@ Cartfile 语法和Carthage大致一样。现在不支持private。简单粗暴.�
 >-  **github "izouxv/gRPC_FMWK" "v1.0.0" "http://xxx.com/gRPC_FMWK.framework.zip"** *#this is release package*
 
 ## update
-**cartool update** will fetch and clone git
-**cartool update -t** will wget package
+>- **cartool update** will fetch and clone git
+>- **cartool update -t** will wget package
  
 ## build  
-**cartool build** will clone and build
-**cartool build -t** will wget package and build 
+>- **cartool build** will clone and build
+>- **cartool build -t** will wget package and build 
 
 

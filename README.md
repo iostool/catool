@@ -1,4 +1,4 @@
-# Cartool
+# cartool
 cartool's Cartfile syntax roughly the same as Carthage. Private is not supported right now. Simple and crude. Support for multi-level nested Cartfile. Particularly suitable for component development, use **-t** can switch to the package mode
 
 > **Sample:**

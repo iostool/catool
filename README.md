@@ -9,10 +9,13 @@ Cartfile 语法和Carthage大致一样。现在不支持private。简单粗暴.�
 
 ## update
 >- **cartool update** will fetch and clone git
->- **cartool update -t** will wget package
+>- **cartool update -p** will wget package
  
 ## build  
 >- **cartool build** will clone and build
->- **cartool build -t** will wget package and build 
+>- **cartool build -p** will wget package and build 
 
+## archive  
+>- **cartool archive** archive all package
+>- **cartool archive -t** archive current package 
 

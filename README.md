@@ -1,5 +1,6 @@
 # Cartool
-Cartfile 语法和Carthage大致一样。现在不支持private。简单粗暴.支持多级嵌套Cartfile。特别适合组件开发，新增了package产生，通过-t可以切换到package模式
+cartool's Cartfile syntax roughly the same as Carthage. Private is not supported right now. Simple and crude. Support for multi-level nested Cartfile. Particularly suitable for component development, use **-t** can switch to the package mode
+
 > **Sample:**
 > 
 >-  **github "izouxv/gRPC_FMWK"**   *#this is comment,  master will be default branch*

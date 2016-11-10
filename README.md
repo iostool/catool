@@ -23,3 +23,6 @@ cartool's Cartfile syntax roughly the same as Carthage. Private is not supported
 ## cmd sample  
 >- **cartool update && cartool build && cartool archive**
 >- **cartool update -p && cartool build -p && cartool archive**
+
+## apple store destrbution
+>- add shell **cartool strip** after copy framework to remove debug arch

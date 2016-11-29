@@ -26,3 +26,6 @@ cartool's Cartfile syntax roughly the same as Carthage. Private is not supported
 
 ## apple store destrbution
 >- add shell **cartool strip** after copy framework to remove debug arch
+
+## download
+>- curl -L https://github.com/iostool/catool/raw/master/catool -o /usr/local/bin/catool

@@ -29,3 +29,5 @@ cartool's Cartfile syntax roughly the same as Carthage. Private is not supported
 
 ## download
 >- curl -L https://github.com/iostool/catool/raw/master/catool -o /usr/local/bin/catool
+>- chmod +x /usr/local/bin/catool
+

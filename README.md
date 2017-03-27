@@ -1,3 +1,5 @@
+使用说明很久没有更新了，下载这个可以使用-h命令查看说明
+
 # cartool
 cartool's Cartfile syntax roughly the same as Carthage. Private is not supported right now. it Simple and crude.it Support for multi-level nested Cartfile. Particularly suitable for component development, use **-p** can switch to the package mode
 
